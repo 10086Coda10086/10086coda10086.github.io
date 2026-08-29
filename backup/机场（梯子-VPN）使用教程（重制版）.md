@@ -1,6 +1,6 @@
 ## iOS/iPadOS 设备教程
 
-1. 登录你的美区Apple ID，如果没有请自行注册，或搜索 **Apple ID共享**
+1. 登录你的美区Apple ID，如果没有请自行注册，或搜索 **Apple ID共享**，这里是一个可能有用的链接：[https://idshare001.me/goso.html](https://idshare001.me/goso.html)
 
 <img width="1170" height="1223" alt="Image" src="https://github.com/user-attachments/assets/15db4c3f-aac8-4cf0-addc-9b55a24f78a0" />
 
