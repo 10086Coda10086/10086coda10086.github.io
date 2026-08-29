@@ -1,5 +1,61 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>echo pale</title><link>https://10086Coda10086.github.io</link><description>pale</description><copyright>echo pale</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/103094747?s=400&amp;u=54690c656e8bf740633710628214ac5a495f4838&amp;v=4</url><title>avatar</title><link>https://10086Coda10086.github.io</link></image><lastBuildDate>Fri, 28 Aug 2026 11:21:18 +0000</lastBuildDate><managingEditor>echo pale</managingEditor><ttl>60</ttl><webMaster>echo pale</webMaster><item><title>群公告</title><link>https://10086Coda10086.github.io/post/26.html</link><description>## 新节点更新与使用须知
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>echo pale</title><link>https://10086Coda10086.github.io</link><description>pale</description><copyright>echo pale</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/103094747?s=400&amp;u=54690c656e8bf740633710628214ac5a495f4838&amp;v=4</url><title>avatar</title><link>https://10086Coda10086.github.io</link></image><lastBuildDate>Sat, 29 Aug 2026 16:21:51 +0000</lastBuildDate><managingEditor>echo pale</managingEditor><ttl>60</ttl><webMaster>echo pale</webMaster><item><title>机场（梯子/VPN）使用教程（重制版）</title><link>https://10086Coda10086.github.io/post/27.html</link><description>## iOS/iPadOS 设备教程
+
+1. 登录你的美区Apple ID，如果没有请自行注册，或搜索 **Apple ID共享**
+
+&lt;img width='1170' height='1223' alt='Image' src='https://github.com/user-attachments/assets/15db4c3f-aac8-4cf0-addc-9b55a24f78a0' /&gt;
+
+2. 搜索 **Clash Mi**（免费） 或**Shadowrocket**并下载（付费）
+
+&lt;img width='1170' height='2463' alt='Image' src='https://github.com/user-attachments/assets/112df1ce-1832-40a9-aaa2-e6beaf8feed6' /&gt;
+
+&lt;img width='1168' height='2409' alt='Image' src='https://github.com/user-attachments/assets/c57c4f87-ed44-462e-a635-ce89e576ed98' /&gt;
+
+&lt;img width='1170' height='2391' alt='Image' src='https://github.com/user-attachments/assets/6b390fdb-5023-4ef1-bddc-a3a40290f887' /&gt;
+
+4. 如果你使用的是**Shadowrocket**，请复制你的订阅链接后，打开应用*（可能会索要权限，请给予；可能会要求安装VPN，请允许并输入锁屏密码）*，点击右上角加号，在剪贴板有订阅链接的情况下，链接会自动填充，此时只要点击右上角保存即可
+   
+&lt;img width='585' height='1266' alt='Image' src='https://github.com/user-attachments/assets/50efd424-325d-4dd4-b7d6-9ddb996e3b00' /&gt;
+
+&lt;img width='585' height='1266' alt='Image' src='https://github.com/user-attachments/assets/d96d86f4-e82c-4e65-8f55-0b8a5bb7dfe4' /&gt;
+
+   若有多个链接，可通过此方法依次添加
+
+   ---
+
+   如果你使用的是**Clash Mi**，请复制你的订阅链接后，打开应用*（可能会索要权限，请给予；可能会要求安装VPN，请允许并输入锁屏密码）*，点击**我的配置**，然后点击右上角加号，在剪贴板有订阅链接的情况下，点击**从剪贴板导入**链接会自动填充，此时只要点击右上角对钩即可
+
+&lt;img width='585' height='1266' alt='Image' src='https://github.com/user-attachments/assets/de319880-f6a6-433a-8c80-a28452807abb' /&gt;
+
+&lt;img width='585' height='1266' alt='Image' src='https://github.com/user-attachments/assets/5d5137dd-b6e1-420f-94a0-4103aee8e01d' /&gt;
+
+&lt;img width='585' height='1266' alt='Image' src='https://github.com/user-attachments/assets/a6319b74-2b1d-450d-a783-c5af88245b92' /&gt;
+
+&lt;img width='585' height='1266' alt='Image' src='https://github.com/user-attachments/assets/2c92012b-5ee8-4483-a539-a5e36842e6ae' /&gt;
+
+   若有多个链接，可通过此方法依次添加
+
+4. 如果你使用的是**Shadowrocket**，在导入完链接之后，就可以点击屏幕上部**未连接**右侧的开关启动VPN的链接*（可能会索要权限，请给予；可能会要求安装VPN，请允许并输入锁屏密码）*，然后点击屏幕上部的**全局路由**选择**代理**选项，回到首页，在所有订阅链接都展开的情况下（不展开的链接默认不检测），点击屏幕上部**连通性测试**进行测速*（建议同时打开应用内设置--&gt;向下滚动到**订阅**--&gt;打开**根据ping值排序**开关*），然后选择速度与国家合适的节点
+
+&lt;img width='585' height='1266' alt='Image' src='https://github.com/user-attachments/assets/28d5b10e-c699-4ecc-af2f-d5ba5fda9154' /&gt;
+
+&lt;img width='585' height='1266' alt='Image' src='https://github.com/user-attachments/assets/7e16f49d-4cdc-4edf-8c22-79e7853e8e27' /&gt;
+
+&lt;img width='585' height='1266' alt='Image' src='https://github.com/user-attachments/assets/73dc6377-8585-4d75-8062-226acdfea703' /&gt;
+
+&lt;img width='585' height='1266' alt='Image' src='https://github.com/user-attachments/assets/a470e209-2b59-426a-a771-9c2930ff640b' /&gt;
+
+   ---
+
+   如果你使用的是**Clash Mi**，在导入完链接之后，点击点击屏幕上部**未连接**右侧的开关启动VPN的链接*（可能会索要权限，请给予；可能会要求安装VPN，请允许并输入锁屏密码）*，然后点击屏幕中下部的**代理**，点击屏幕右上角的闪电图标进行测速，并等待测速完成，完成后点击屏幕上部**节点选择**，然后选择速度与国家合适的节点
+
+&lt;img width='585' height='1266' alt='Image' src='https://github.com/user-attachments/assets/488ac85f-671b-459e-b621-d42b1cde770e' /&gt;
+
+&lt;img width='585' height='1266' alt='Image' src='https://github.com/user-attachments/assets/2bd80996-7005-48fd-841c-f216882bdc64' /&gt;
+
+&lt;img width='585' height='1266' alt='Image' src='https://github.com/user-attachments/assets/b6afc3d6-d3e9-44a7-b124-8f5b60a631d6' /&gt;
+
+5. 如果你想深入探索上面两个应用，可自行搜索相关知识，同时推荐项目 [[Shadowrocket 使用手册 补完计划](https://lowertop.github.io/Shadowrocket/)](https://lowertop.github.io/Shadowrocket/)，可自行学习。</description><guid isPermaLink="true">https://10086Coda10086.github.io/post/27.html</guid><pubDate>Sat, 29 Aug 2026 16:21:24 +0000</pubDate></item><item><title>群公告</title><link>https://10086Coda10086.github.io/post/26.html</link><description>## 新节点更新与使用须知
 
 九幺节快乐，祝大家身体健康，网速起飞。</description><guid isPermaLink="true">https://10086Coda10086.github.io/post/26.html</guid><pubDate>Fri, 28 Aug 2026 11:14:45 +0000</pubDate></item><item><title>免费动漫网址</title><link>https://10086Coda10086.github.io/post/24.html</link><description>## 免责声明
 
